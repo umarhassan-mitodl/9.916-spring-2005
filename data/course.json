@@ -1,0 +1,56 @@
+{
+  "term": "Spring",
+  "year": "2005",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Biology",
+      "Neuroscience"
+    ],
+    [
+      "Health and Medicine",
+      "Sensory-Neural Systems"
+    ],
+    [
+      "Science",
+      "Cognitive Science"
+    ],
+    [
+      "Social Science",
+      "Psychology"
+    ]
+  ],
+  "legacy_uid": "71d6ac5b-468e-3e75-ff7a-50902fb73371",
+  "instructors": {
+    "content": [
+      "f663a54e-11e5-a996-a108-711b7abea57f",
+      "a200579a-eaaa-c391-a86b-f6617d0ad929"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "add59be4-b8ce-799a-c967-1137e269c91d",
+    "website": "9-916-the-neural-basis-of-visual-object-recognition-in-monkeys-and-humans-spring-2005"
+  },
+  "course_title": "The Neural Basis of Visual Object Recognition in Monkeys and Humans",
+  "hide_download": true,
+  "course_description": "Understanding the brain's remarkable ability for visual object recognition is one of the greatest challenges of brain research. The goal of this course is to provide an overview of key issues of object representation and to survey data from primate physiology and human fMRI that bear on those issues. Topics include the computational problems of object representation, the nature of object representations in the brain, the tolerance and selectivity of those representations, and the effects of attention and learning.\n",
+  "department_numbers": [
+    "9"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "9.916",
+  "course_image_thumbnail": {
+    "content": "7484d903-b555-5b68-8a51-b3b12907e68d",
+    "website": "9-916-the-neural-basis-of-visual-object-recognition-in-monkeys-and-humans-spring-2005"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [],
+  "site_uid": "5334e31a-88b7-408a-8738-234064826be4",
+  "site_short_id": "9.916-spring-2005",
+  "site_url_path": "courses/9-916-the-neural-basis-of-visual-object-recognition-in-monkeys-and-humans-spring-2005",
+  "title": "Course Metadata"
+}
